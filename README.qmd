@@ -1,6 +1,0 @@
----
-title: "README"
-format: html
----
-
-This is a fake project README.
